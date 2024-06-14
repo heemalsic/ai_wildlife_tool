@@ -20,7 +20,7 @@ How to use:
   
 1. Upon unzipping, edit the "paths.txt" file with the respective file paths in your system.  
 2. In the model_path, overwrite the absolute path of the checkpoint you have saved in your system.  
-3. In input_dir, add the location of the images you want to inference and segregate (currently only jpg formats are supported).  
+3. In input_dir, add the location of the images you want to inference and segregate (use jpg formats).  
 4. In output_dir, add the location where you want the images to be segregated.  
 5. Now, run the oai_shift.exe file.  
 6. You will be asked to confirm whether the file paths are correct (y/n).  
