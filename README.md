@@ -10,7 +10,7 @@ The tool is compatible with the windows platorm and can be installed by followin
 
 1. Download [inf_11.zip](https://drive.google.com/uc?export=download&id=1T7sI3z7YvgeSqhwR4jJrf5qMyLsdDl3L).
 2. Unzip the compressed file.
-3. Download the checkpoint from [here](https://drive.google.com/file/d/1aMDwvLvWZBjnwKKK5fu9Z0iG2cAl9v4B/view?usp=sharing)
+3. Download the checkpoint from [here](https://drive.google.com/file/d/1aMDwvLvWZBjnwKKK5fu9Z0iG2cAl9v4B/view?usp=sharing).
   
 The application is now ready to be used.  
   
