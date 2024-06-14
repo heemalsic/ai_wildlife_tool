@@ -3,6 +3,8 @@
 A windows-based command line tool which can segregate wildlife images. It is trained on the wildlife images dataset provided by the Wildlife Institute of India and fine tuned of Leopord National Park, Russia's dataset.  
   
 # Installation and Use  
+  
+# Installation  
 
 The tool is compatible with the windows platorm and can be installed by following these steps:  
 
@@ -11,7 +13,9 @@ The tool is compatible with the windows platorm and can be installed by followin
 3. Download the checkpoint from [here](https://drive.google.com/file/d/1aMDwvLvWZBjnwKKK5fu9Z0iG2cAl9v4B/view?usp=sharing)
   
 The application is now ready to be used.  
-
+  
+# Use  
+  
 How to use:  
   
 1. Upon unzipping, edit the "paths.txt" file with the respective file paths in your system.  
