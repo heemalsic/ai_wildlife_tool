@@ -1,6 +1,6 @@
 # AI Tool for Wildlife Images Segregation  
   
-A windows-based command line tool which can segregate wildlife images. It is trained on the wildlife images dataset provided by the Wildlife Institute of India and fine tuned of Leopord National Park, Russia's dataset.  
+A windows-based command line tool which can segregate wildlife images. It is trained on the wildlife images dataset provided by the Wildlife Institute of India and fine tuned over Leopard National Park, Russia's dataset.  
   
 # Installation and Use  
   
